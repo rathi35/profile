@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "image.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "samsung-galaxy-polyart-blue-purple-pattern-34-iphone6-plus-wallpaper.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
